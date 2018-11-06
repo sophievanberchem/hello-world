@@ -1,2 +1,5 @@
 # hello-world
-Just another repository full of nice resources 
+
+Hi beautiful people !
+
+I have changed this document to make sure it shines. 
